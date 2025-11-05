@@ -16,3 +16,7 @@ Lecture Notes](./PDFs/aaronson.pdf)
 Childs' [Lecture Notes on Quantum Algorithms](./PDFs/childs.pdf)
 
 Matuschak and Nielse'sn [Quantum Country](https://quantum.country/qcvc)
+
+Chris Ferrie's [What You Shouldn't Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
+
+Ezratti's massive [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2024/understanding-quantum-technologies-2024/)
